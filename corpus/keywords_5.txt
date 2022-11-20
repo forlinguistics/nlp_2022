@@ -1,0 +1,1 @@
+mathematics,affine space,geometric structure,Euclidean space,concept,distance,angle,parallelism,ratio of lengths,point,vector,translation vector,translation,space,displacement vector,vector space,subspace,finite dimensions,inhomogeneous linear system,homogeneous linear system,affine hyperplane
